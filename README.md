@@ -17,3 +17,5 @@ The application can be enhanced further by adding features such as visual analyt
 In summary, the Spam Message Classifier Streamlit App is a great learning project that combines machine learning, NLP, and web development using Python. It offers hands-on experience with real data, teaches you how to build a machine learning pipeline, and introduces you to deploying interactive ML applications in a user-friendly manner. Whether you're just starting your ML journey or want to explore how data science meets web apps, this project is a perfect fit.
 
 output :
+
+<img width="1915" height="389" alt="Image" src="https://github.com/user-attachments/assets/19bd88b1-289c-4de5-9bb8-b41dccdcc26e" />
